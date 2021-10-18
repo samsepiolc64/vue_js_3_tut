@@ -18,7 +18,11 @@
     "@vue/compiler-sfc": "^3.0.0",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
-    "eslint-plugin-vue": "^7.0.0"
+    "eslint-plugin-vue": "^7.0.0",
+    "node-sass": "^6.0.1",
+    "sass": "^1.43.2",
+    "sass-loader": "^10.1.1",
+    "webpack": "^5.58.2"
   },
   "eslintConfig": {
     "root": true,
@@ -38,5 +42,7 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "_id": "tut-pl@0.1.0",
+  "readme": "ERROR: No README data found!"
 }
